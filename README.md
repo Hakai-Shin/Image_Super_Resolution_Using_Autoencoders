@@ -1,2 +1,2 @@
-# Image_Super_Resolution_Using_Autoencoders
+# Image Super Resolution Using Autoencoders
 Converted low resolution images to high resolution images using Autoencoders.
